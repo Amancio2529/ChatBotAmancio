@@ -1,0 +1,511 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492984893753@s.whatsapp.net',
+    fromMe: false,
+    id: '8EAFC6598C5F4CC4066D42D6FA75D72F',
+    participant: undefined
+  },
+  messageTimestamp: 1750686467,
+  pushName: 'torres julieta',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '5492984893753'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c8a03423-ba46-4efb-a530-dab5418db46b',
+  keyword: 'key_4d37dc0d-5faa-4916-b408-eae91679b978',
+  answer: 'Hola, soy Amancio. Te ayudaré con cosas básicas de General Roca para poder ubicarte o saber información de aquí 😌🤓',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '96f12d3e2275636985067a6616b3de16'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_06853c9c-954b-4981-adbc-5e253f203198',
+  keyword: 'ans_c8a03423-ba46-4efb-a530-dab5418db46b',
+  answer: 'Puedo ayudarte con las siguientes cosas: 🤓\n' +
+    '• Teléfonos de servicios \n' +
+    '• Ubicaciones (clinicas , hospitales y farmacias)\n' +
+    '• Horarios de colectivos\n' +
+    'Tenés que comunicarte conmigo diciendome uno de los sigueintes enunciados:\n' +
+    '👉 *ubicaciones*\n' +
+    '👉 *servicios* \n' +
+    '👉 *horarios*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b2179bae991cb8ac549be0cba1681350'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492984893753@s.whatsapp.net',
+    fromMe: false,
+    id: '18D1CBD6FEAEF4FF8E958603B72B8462',
+    participant: undefined
+  },
+  messageTimestamp: 1750686485,
+  pushName: 'torres julieta',
+  broadcast: false,
+  message: Message {
+    conversation: 'dame las ubicaciones',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'dame las ubicaciones',
+  from: '5492984893753'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a7f6c129-ec93-4905-8055-67a32e7dc0e8',
+  keyword: 'key_dd424245-051a-4df8-a89b-8de999d77c13',
+  answer: 'hasta ahora solo cuento con las siguientes ubicaciones:\n' +
+    'Farmacias\n' +
+    'Clinica y Hospitales',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b5912c5411974d9b299d3de50d8b1428'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492984893753@s.whatsapp.net',
+    fromMe: false,
+    id: 'D58FA9A694657550171DF45393E0D0D8',
+    participant: undefined
+  },
+  messageTimestamp: 1750686502,
+  pushName: 'torres julieta',
+  broadcast: false,
+  message: Message {
+    conversation: 'puedes darme las ubicaciones de farmacias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'puedes darme las ubicaciones de farmacias',
+  from: '5492984893753'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25a0bfab-56fd-406d-b270-5e3756a028d5',
+  keyword: 'key_d9739e10-9f88-4c54-b9da-4d45c8633479',
+  answer: 'Claro aquí tienes las distintas farmacias para acceder a la ubicacion da click en el enlace \n' +
+    '*Farmacia Social* \n' +
+    'su Telefono: 2984633833 \n' +
+    'https://maps.app.goo.gl/xQZ7UhtBzsbe4NVw5\n' +
+    '*San Martín*\n' +
+    'su Telefono: 29844226071\n' +
+    'https://maps.app.goo.gl/bmseaJoRZyejUg4Y7\n' +
+    '*Farmacia Carmelino*\n' +
+    'su Telefono: 2984436903 \n' +
+    'https://maps.app.goo.gl/Rw5iNqSfkurZQMqJ6\n' +
+    '*San Juan*\n' +
+    ' su Telefono: 2984431496 \n' +
+    'https://maps.app.goo.gl/sQ8co5pZTjb5y5RQA\n' +
+    '*San Martín 4*\n' +
+    ' su Telefono: 2984604694\n' +
+    'https://maps.app.goo.gl/9QpP98GjSKZJyCPX6\n' +
+    '*Farmacia Brunetti*\n' +
+    'su Telefono: 2984421755 \n' +
+    'https://maps.app.goo.gl/TYKcFSyTqZqqVtNf6\n' +
+    '*Mucarsel*\n' +
+    'su Telefono: 2984426838\n' +
+    'https://maps.app.goo.gl/uRSBpVwv6dJVFXPd6\n' +
+    '*Farmacia Sud*\n' +
+    'su Telefono: 2984426838\n' +
+    'https://maps.app.goo.gl/Nyc9aoZRzhZuXiGx5\n' +
+    '*San Martín 3* \n' +
+    'su Telefono: 2984663638\n' +
+    'https://maps.app.goo.gl/ezUBzGk6rhf4QHFo7\n' +
+    '*Farmacia Rodhe*\n' +
+    'su Telefono: 2984434181\n' +
+    'https://maps.app.goo.gl/bC4eKPGHB8YeMa9WA\n' +
+    '*Pharmacy Villegas*\n' +
+    'su Tlefono: 2984651277\n' +
+    'https://maps.app.goo.gl/o9xjwTJBdtUNpywz5\n' +
+    '*San Martín 6*\n' +
+    'su Telefono: 2984484547  https://maps.app.goo.gl/B49AWqQbUbKfjq9Y8\n' +
+    '*Farmacia Araucana*\n' +
+    'su Telefono: 2984425748 \n' +
+    'https://maps.app.goo.gl/kDe9MJa6zXc2aeGNA',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1376c66d8319e6f80411db1fdd9f1fa8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492984893753@s.whatsapp.net',
+    fromMe: false,
+    id: '678ECA67D794B48DBE5C2672D36B61E5',
+    participant: undefined
+  },
+  messageTimestamp: 1750686529,
+  pushName: 'torres julieta',
+  broadcast: false,
+  message: Message {
+    conversation: 'puedes darme los horarios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'puedes darme los horarios',
+  from: '5492984893753'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6ed83637-f556-4bab-af54-dc78f924877c',
+  keyword: 'key_6aed7e63-9949-4f7b-b6a3-51834b1de458',
+  answer: 'Claro, para saber los horarios del colectivo tienes que decirme el nombre de tu colectivo 😊',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd20717c91d73089165581cf4f0170091'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492984893753@s.whatsapp.net',
+    fromMe: false,
+    id: '770C3948362E3E8C665A17A5DE37DDA8',
+    participant: undefined
+  },
+  messageTimestamp: 1750686530,
+  pushName: 'torres julieta',
+  broadcast: false,
+  message: Message {
+    conversation: '???',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '???',
+  from: '5492984893753'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e8e61031-4987-42e9-bf15-abb69679c686',
+  keyword: 'key_96414fcb-c13d-45e8-a933-ef979359b3f4',
+  answer: 'No estoy programado para eso aun, puedes repetirme de otra manera ?😉 ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2b3dc85a3a4de1fc6c79eb36b3c8a8ec'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492984893753@s.whatsapp.net',
+    fromMe: false,
+    id: 'E5651E32C6D9DD6190C4B1017C0CDCCE',
+    participant: undefined
+  },
+  messageTimestamp: 1750686551,
+  pushName: 'torres julieta',
+  broadcast: false,
+  message: Message {
+    conversation: 'dime el de Gómez alta barda',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'dime el de Gómez alta barda',
+  from: '5492984893753'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d2ca0886-21c1-4f53-b749-2a088e018fb5',
+  keyword: 'key_b4344b73-7357-41bc-a267-51b8097e26ac',
+  answer: 'Claro aqui tienes los horarios de Gomes y Alta Barda\n' +
+    'LUNES A VIERNES\n' +
+    'sale darsena 3: primer servicio: 06:10 - ultimo servicio: 23:50\n' +
+    'frecuencia: cada 30 minutos\n' +
+    'desde villegas y felix heredia :primer servicio: 06:40 - ultimo servicio: 00:10\n' +
+    'frecuencia: cada 30 minutos\n' +
+    'SÁBADOS y DOMINGOS\n' +
+    'SALE DÁRSENA 3:\n' +
+    'primer servicio: 06:10 - ultimo servicio: 21:40\n' +
+    'frecuencia: cada 30 minutos\n' +
+    'desde villegas y felix heredia :primer servicio: 06:40 - ultimo servicio: 00:10\n' +
+    'frecuencia: cada 30 minutos\n' +
+    '\n' +
+    'primer servicio: 06:40 - ultimo servicio: 22:00\n' +
+    'frecuencia : cada 30/40 minutos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02e8bb7f239a971de82634a30c040e9f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492984123350@s.whatsapp.net',
+    fromMe: false,
+    id: 'C458F439795FF94584B9EE2C5303C7A7',
+    participant: undefined
+  },
+  messageTimestamp: 1750686554,
+  pushName: 'Danilo Alsina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5492984123350'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c8a03423-ba46-4efb-a530-dab5418db46b',
+  keyword: 'key_4d37dc0d-5faa-4916-b408-eae91679b978',
+  answer: 'Hola, soy Amancio. Te ayudaré con cosas básicas de General Roca para poder ubicarte o saber información de aquí 😌🤓',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '96f12d3e2275636985067a6616b3de16'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_06853c9c-954b-4981-adbc-5e253f203198',
+  keyword: 'ans_c8a03423-ba46-4efb-a530-dab5418db46b',
+  answer: 'Puedo ayudarte con las siguientes cosas: 🤓\n' +
+    '• Teléfonos de servicios \n' +
+    '• Ubicaciones (clinicas , hospitales y farmacias)\n' +
+    '• Horarios de colectivos\n' +
+    'Tenés que comunicarte conmigo diciendome uno de los sigueintes enunciados:' 
+    '👉 *ubicaciones*\n' +
+    '👉 *servicios* \n' +
+    '👉 *horarios*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b2179bae991cb8ac549be0cba1681350'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492984123350@s.whatsapp.net',
+    fromMe: false,
+    id: 'B5BEE74B8EA5F74A6A5DB30EAC284A30',
+    participant: undefined
+  },
+  messageTimestamp: 1750686610,
+  pushName: 'Danilo Alsina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Servicios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Servicios',
+  from: '5492984123350'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2dd686e8-f836-446c-8db6-b1e52d7e034d',
+  keyword: 'key_0b7cc3f6-c9da-449e-9f6c-c1652bf98ad2',
+  answer: '👇 Para acceder a la informacion dime el nombrame alguno de los siguente servicios:\n' +
+    '1. Municipalidad\n' +
+    '2. Vallenet\n' +
+    '3. Aguas Rionegrinas\n' +
+    '4. Edersa\n' +
+    '5. Camusi\n' +
+    '6. Personal Flow\n' +
+    '7. Net Patagonia\n' +
+    '8. Taxis',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '61d3ee818633d1a91fc61fc393af5a79'
+}
+   [handleMsg]:  {
+  key: {
+    remoteJid: '5492984123350@s.whatsapp.net',
+    fromMe: false,
+    id: 'E8F77D1D461D2E98B34D176EF5DC126E',
+    participant: undefined
+  },
+  messageTimestamp: 1750686852,
+  pushName: 'Danilo Alsina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Vallenet',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Vallenet',
+  from: '5492984123350'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_81218869-1c3a-41e0-a633-983047872f4f',
+  keyword: 'key_535c0fdb-77ba-4628-8c14-978fbbad0516',
+  answer: 'aqui tienes el numero de Vallenet: 08102200140 y su sitio web https://www.vallenet.com.ar/\n' +
+    'necesitas algo mas?.🤓',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cb3ccb1bb4e1fce2a713d0874e96ec47'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492984123350@s.whatsapp.net',
+    fromMe: false,
+    id: 'F48E6B3BF19311B060C838E8E566AB68',
+    participant: undefined
+  },
+  messageTimestamp: 1750686872,
+  pushName: 'Danilo Alsina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Net patagonia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Net patagonia',
+  from: '5492984123350'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c32f2739-9462-418d-8ad6-425ba19872c2',
+  keyword: 'key_43af024f-ded9-4d4c-9429-153b38eee1e8',
+  answer: 'aqui tienes el numero de Net Patagonia: 2984334097 / 2984401445 y su sitio web https://netpatagonia.com.ar\n' +
+    'necesitas algo mas?.🤓',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'eefe0475118fb85c152eaf33b0cb8ae5'
+}

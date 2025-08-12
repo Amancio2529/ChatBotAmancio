@@ -26,60 +26,76 @@ const flowfarma = addKeyword(['farmacia','farmacias','Farmacia','Farmacias','FAR
  'farmacia cerca','farmacia general roca','farmacias en roca','dame una farmacia','buscar farmacia','farmacia?']).addAnswer([
 'Claro aquí tienes las distintas farmacias para acceder a la ubicación da click en el enlace ',
 
-'*Farmacia San Martín*',
-'*Farmacia San Martín 1*','su Telefono: 2984663634','https://maps.app.goo.gl/bmseaJoRZyejUg4Y7',
-'*Farmacia San Martín 2*','su Telefono: 2984604848','https://maps.app.goo.gl/2HzrMmPSwtmQGtsR6',
-'*Farmacia San Martín 3*','su Telefono: 2984663638','https://maps.app.goo.gl/ezUBzGk6rhf4QHFo7',
-'*Farmacia San Martín 4*','su Telefono: 2984604694','https://maps.app.goo.gl/9QpP98GjSKZJyCPX6',
-'*Farmacia San Martín 5*','su Telefono: 2984861066','https://maps.app.goo.gl/oTJMTiAkySN1Sd6WA',
-'*Farmacia San Martín 6*','su Telefono: 2984535875','https://maps.app.goo.gl/B49AWqQbUbKfjq9Y8',
-'*Farmacia San Martín 7*','su Telefono: 2984226071','https://maps.app.goo.gl/msvVpmUCTjkPUqyV8',
-'*Farmacia San Martín 8*','su Telefono: 2984131224','https://maps.app.goo.gl/xEsLFo8sv3WKMmqZA',
-'*Farmacia San Martín 9*','su Telefono: 2984160067','https://maps.app.goo.gl/3sn8W3HzykRbH4rv6',
-'*Farmacia Bancaria*',
-'*Farmacia Bancaria 1*','su Telefono: 2984422886','https://maps.app.goo.gl/t19oWjVvyaoJxrqv8',
-'*Farmacia Bancaria 2*','su Telefono: 2984427795','https://maps.app.goo.gl/ojXFEsa4uskV8rW19',
-'*Farmacia Bancaria 3*','su Telefono: 2984422464','https://maps.app.goo.gl/awMx2ze8KbbVELTq6',
-'*Farmacia Bancaria 4*','su Telefono: 2984423686','https://maps.app.goo.gl/4HW1aqrrKWDDxC54A',
-'*Farmacia Bancaria Güemes*','su Telefono: 2984819595','https://maps.app.goo.gl/sHrjbwwFSLJLNKe98',
-'*Farmacia Estuardo Romero*',
-'*Farmacia Estuardo Romero I*','su Telefono: 2984425200','https://maps.app.goo.gl/365cfHtQxcJ1BZno9',
-'*Farmacia Estuardo Romero II*','su Telefono: 2984385695','https://maps.app.goo.gl/RzJtm6G5jQVhKpDn6',
-'*Farmacia Estuardo Romero III*','su Telefono: 2984735380','https://maps.app.goo.gl/htHTKRpjWVYaEYVQ7',
-'*Resto de Farmacias*',
-'*Farmacia Mendoza*','su Telefono: 2984425301','https://maps.app.goo.gl/eW5pzq1EMo56mhC8A',
-'*Farmacia Carmelino*','su Telefono: 2984436903','https://maps.app.goo.gl/Rw5iNqSfkurZQMqJ6',
-'*Farmacia B° San Cayetano*','su Telefono: 2984436566','https://maps.app.goo.gl/6opcKMEM7sG9HbDR9',
-'*Farmacia Rohde*','su Telefono: 2984434181','https://maps.app.goo.gl/bC4eKPGHB8YeMa9WA',
-'*Farmacia Italia*','su Telefono: 2984749166','https://maps.app.goo.gl/2wAgj8qGoCNWD94B6',
-'*Farmajur*','su Telefono: 2984437684','https://maps.app.goo.gl/TuHTmqhgwHDzcWuj6',
-'*Farmacia Sanchez*','su Telefono: 2984423214','https://maps.app.goo.gl/DgGLS8PNk6vPWPzr6',
-'*Farmacia Sud*','su Telefono: 2984422595','https://maps.app.goo.gl/Nyc9aoZRzhZuXiGx5',
-'*Farmacia y Optica Costanzo*','su Telefono: 2984422479','https://maps.app.goo.gl/4Ed87zoiXH9BrL2Y8',
-'*Farmacia Del Valle*','su Telefono:','https://maps.app.goo.gl/HKyVDenSZi7ZRbhRA',
-'*FARMACIA LA PLATA*','su Telefono: 2984432268','https://maps.app.goo.gl/xRNGi7tonLpKqsky9',
-'*Farmacia San Juan SCS*','su Telefono:','https://maps.app.goo.gl/vCnJxkRW8kRMtVZb8',
-'*Farmacia Araucana*','su Telefono: 2984425748','https://maps.app.goo.gl/kDe9MJa6zXc2aeGNA',
-'*MIFARMA*','su Telefono: 2984600069','https://maps.app.goo.gl/MBsK6LFiJkv9pG3Y7',
-'*Pharmacy Villegas*','su Telefono: 2984651277','https://maps.app.goo.gl/o9xjwTJBdtUNpywz5',
-'*Farmacia Roca*','su Telefono: 2984784634','https://maps.app.goo.gl/TWBCmhEvVm59e38k6',
-'*Farmacia y Perfumeria Tiengo*','su Telefono: 2984430222','https://maps.app.goo.gl/QJESM7oPDwSd1gxe9',
-'*FARMACENTRO*','su Telefono: No tiene','https://maps.app.goo.gl/iEAEi6pMb7XwUCss5',
-'*Farmacia Mucarsel*','su Telefono: 2984426838','https://maps.app.goo.gl/uRSBpVwv6dJVFXPd6',
-'*Farmacia Rochdale*','su Telefono: 2984539833','https://maps.app.goo.gl/hVSgtJTJBvrFQh5y7',
-'*Farmacia Herrera*','su Telefono: 29915317965','https://maps.app.goo.gl/nXePccovNhedk5yp8',
-'*Farmacia Social*','su Telefono: 2984633833','https://maps.app.goo.gl/xQZ7UhtBzsbe4NVw5',
-'*Farmacia Del Sol*','su Telefono: 2984433176','https://maps.app.goo.gl/gPmmrVq9837KP5EM8',
-'*Farmacia Aeroclub*','su Telefono: No tiene','https://maps.app.goo.gl/dZKuRKwhZWDd9QXr5',
-'*Farmacia Tati House*','su Telefono: No tiene','https://maps.app.goo.gl/MHnNQESHeDPeRw2FA',
-'*Drogueria Alto valle*','su Telefono: No tiene','https://maps.app.goo.gl/UAbZ6ZZgknjmiDFB8',
-'*Farmacia Y Perfumeria Santa Teresita*','su Telefono: 2984423090','https://maps.app.goo.gl/YDYmuv4v6UobHMBM8',
-'*La Botica Scs*','su Telefono: 02996596464','https://maps.app.goo.gl/UMY1pCD1Y6vVC7fV6',
-'*Paniceres - La Farmacia*','su Telefono: 2984428635','https://maps.app.goo.gl/es95X1P7N5rx21nHA',
+.addAnswer(
+    ['*Farmacia San Martín*',
+'*Farmacia San Martín 1','su Telefono: 2984663634','https://maps.app.goo.gl/bmseaJoRZyejUg4Y7',
+'*Farmacia San Martín 2','su Telefono: 2984604848','https://maps.app.goo.gl/2HzrMmPSwtmQGtsR6',
+'*Farmacia San Martín 3','su Telefono: 2984663638','https://maps.app.goo.gl/ezUBzGk6rhf4QHFo7',
+'*Farmacia San Martín 4','su Telefono: 2984604694','https://maps.app.goo.gl/9QpP98GjSKZJyCPX6',
+'*Farmacia San Martín 5','su Telefono: 2984861066','https://maps.app.goo.gl/oTJMTiAkySN1Sd6WA',
+'*Farmacia San Martín 6','su Telefono: 2984535875','https://maps.app.goo.gl/B49AWqQbUbKfjq9Y8',
+'*Farmacia San Martín 7','su Telefono: 2984226071','https://maps.app.goo.gl/msvVpmUCTjkPUqyV8',
+'*Farmacia San Martín 8','su Telefono: 2984131224','https://maps.app.goo.gl/xEsLFo8sv3WKMmqZA',
+'*Farmacia San Martín 9','su Telefono: 2984160067','https://maps.app.goo.gl/3sn8W3HzykRbH4rv6'])
+.addAnswer(
+    ['*Farmacia Bancaria*',
+'*Farmacia Bancaria 1','su Telefono: 2984422886','https://maps.app.goo.gl/t19oWjVvyaoJxrqv8',
+'*Farmacia Bancaria 2','su Telefono: 2984427795','https://maps.app.goo.gl/ojXFEsa4uskV8rW19',
+'*Farmacia Bancaria 3','su Telefono: 2984422464','https://maps.app.goo.gl/awMx2ze8KbbVELTq6',
+'*Farmacia Bancaria 4','su Telefono: 2984423686','https://maps.app.goo.gl/4HW1aqrrKWDDxC54A',
+'*Farmacia Bancaria Güemes','su Telefono: 2984819595','https://maps.app.goo.gl/sHrjbwwFSLJLNKe98'])
+.addAnswer(
+    ['*Farmacia Estuardo Romero*',
+'*Farmacia Estuardo Romero I','su Telefono: 2984425200','https://maps.app.goo.gl/365cfHtQxcJ1BZno9',
+'*Farmacia Estuardo Romero II','su Telefono: 2984385695','https://maps.app.goo.gl/RzJtm6G5jQVhKpDn6',
+'*Farmacia Estuardo Romero III','su Telefono: 2984735380','https://maps.app.goo.gl/htHTKRpjWVYaEYVQ7'])
+.addAnswer(
+    ['*Resto de Farmacias*'
+'*Farmacia Mendoza','su Telefono: 2984425301','https://maps.app.goo.gl/eW5pzq1EMo56mhC8A',
+'*Farmacia Carmelino','su Telefono: 2984436903','https://maps.app.goo.gl/Rw5iNqSfkurZQMqJ6',
+'*Farmacia B° San Cayetano','su Telefono: 2984436566','https://maps.app.goo.gl/6opcKMEM7sG9HbDR9',
+'*Farmacia Rohde','su Telefono: 2984434181','https://maps.app.goo.gl/bC4eKPGHB8YeMa9WA',
+'*Farmacia Italia','su Telefono: 2984749166','https://maps.app.goo.gl/2wAgj8qGoCNWD94B6',
+'*Farmajur','su Telefono: 2984437684','https://maps.app.goo.gl/TuHTmqhgwHDzcWuj6',
+'*Farmacia Sanchez','su Telefono: 2984423214','https://maps.app.goo.gl/DgGLS8PNk6vPWPzr6',
+'*Farmacia Sud','su Telefono: 2984422595','https://maps.app.goo.gl/Nyc9aoZRzhZuXiGx5',
+'*Farmacia y Optica Costanzo','su Telefono: 2984422479','https://maps.app.goo.gl/4Ed87zoiXH9BrL2Y8',
+'*Farmacia Del Valle','su Telefono:','https://maps.app.goo.gl/HKyVDenSZi7ZRbhRA',
+'*FARMACIA LA PLATA','su Telefono: 2984432268','https://maps.app.goo.gl/xRNGi7tonLpKqsky9',
+'*Farmacia San Juan SCS','su Telefono:','https://maps.app.goo.gl/vCnJxkRW8kRMtVZb8',
+'*Farmacia Araucana','su Telefono: 2984425748','https://maps.app.goo.gl/kDe9MJa6zXc2aeGNA',
+'*MIFARMA','su Telefono: 2984600069','https://maps.app.goo.gl/MBsK6LFiJkv9pG3Y7',
+'*Pharmacy Villegas','su Telefono: 2984651277','https://maps.app.goo.gl/o9xjwTJBdtUNpywz5',
+'*Farmacia Roca','su Telefono: 2984784634','https://maps.app.goo.gl/TWBCmhEvVm59e38k6',
+'*Farmacia y Perfumeria Tiengo','su Telefono: 2984430222','https://maps.app.goo.gl/QJESM7oPDwSd1gxe9',
+'*FARMACENTRO','su Telefono: No tiene','https://maps.app.goo.gl/iEAEi6pMb7XwUCss5',
+'*Farmacia Mucarsel','su Telefono: 2984426838','https://maps.app.goo.gl/uRSBpVwv6dJVFXPd6',
+'*Farmacia Rochdale','su Telefono: 2984539833','https://maps.app.goo.gl/hVSgtJTJBvrFQh5y7',
+'*Farmacia Herrera','su Telefono: 29915317965','https://maps.app.goo.gl/nXePccovNhedk5yp8',
+'*Farmacia Social','su Telefono: 2984633833','https://maps.app.goo.gl/xQZ7UhtBzsbe4NVw5',
+'*Farmacia Del Sol','su Telefono: 2984433176','https://maps.app.goo.gl/gPmmrVq9837KP5EM8',
+'*Farmacia Aeroclub','su Telefono: No tiene','https://maps.app.goo.gl/dZKuRKwhZWDd9QXr5',
+'*Farmacia Tati House','su Telefono: No tiene','https://maps.app.goo.gl/MHnNQESHeDPeRw2FA',
+'*Drogueria Alto valle','su Telefono: No tiene','https://maps.app.goo.gl/UAbZ6ZZgknjmiDFB8',
+'*Farmacia Y Perfumeria Santa Teresita','su Telefono: 2984423090','https://maps.app.goo.gl/YDYmuv4v6UobHMBM8',
+'*La Botica Scs','su Telefono: 02996596464','https://maps.app.goo.gl/UMY1pCD1Y6vVC7fV6',
+'*Paniceres - La Farmacia','su Telefono: 2984428635','https://maps.app.goo.gl/es95X1P7N5rx21nHA',]
+)
 
 ])
 
-const flowclinica = addKeyword('clinica').addAnswer([
+const flowclinica = addKeyword('clinica','Clinica,'hospitales','Hospitales', 'ubicaciones de clinicas y hospitales?', 'ubicacion de clinicas y hospitales?', 
+  'ubicacion clinicas y hospitales?', 'ubicaciones clinicas y hospitales?', 
+  'ubicacion de CLINICAS y HOSPITALES?', 'UBICACIONES DE CLINICAS Y HOSPITALES?', 
+  'ubicacion clinicas hospitales?', 'ubicaciones clinicas hospitales?', 
+  'ubicacion de hospitales y clinicas?', 'ubicaciones hospitales y clinicas?', 
+  'ubicacion hospitales y clinicas?','numero de clinicas y hospitales?', 'numeros de clinicas y hospitales?', 
+  'numero clinicas y hospitales?', 'numeros clinicas y hospitales?', 
+  'numero de CLINICAS y HOSPITALES?', 'NUMERO DE CLINICAS Y HOSPITALES?', 
+  'NUMEROS DE CLINICAS Y HOSPITALES?', 'numero clinicas hospitales?', 
+  'numeros clinicas hospitales?', 'num clinicas hospitales?', 
+  'num de clinicas y hospitales?'
+  ).addAnswer([
   'Por ahora solo constamos con las siguientes clinicas y hospitales:',
   '(urgencias y guardia)',
   'sanatorio juan 23',
@@ -101,7 +117,10 @@ const flowUbi = addKeyword(['ubicaciones', 'ubicasiones', 'ubicacioness', 'ubica
   null, 
   [
     flowclinica,
-    flowfarma
+    flowfarma,
+    flowhospital,
+    flowjuan,
+    flowroca
   ]
 )
 
@@ -113,7 +132,21 @@ const municipio = addKeyword(['1', 'municipalidad', 'munisipalidad', 'municipali
   'aqui tienes el numero de la Municipalidad 2984431400 y su sitio web es https://www.generalroca.gob.ar','necesitas algo mas?.🤓'
 ])
 
-const flowVallenet = addKeyword(['2', 'vallenet', 'valenet', 'valle net', 'vallenett', 'vllenet', 'vallemet', 'ballenet', 'vallenét', 'valleenet', 'valletnet']).addAnswer([
+const flowVallenet = addKeyword(['2', 'vallenet',  'vallenet',
+  'Vallenet',
+  'VALLENET',
+  'valenet',
+  'Valenet',
+  'VALENET',
+  'ballenet',
+  'Ballenet',
+  'BALLENET',
+  'vallenett',
+  'Vallenett',
+  'VALLENETT',
+  'balenet',
+  'Balenet',
+  'BALENET']).addAnswer([
   'aqui tienes el numero de Vallenet: 08102200140 y su sitio web https://www.vallenet.com.ar/','necesitas algo mas?.🤓'
 ])
 
@@ -121,7 +154,21 @@ const flowAguas = addKeyword(['3', 'aguas', 'aguaz', 'aguass', 'aguazs', 'aguás
   'aqui tienes el numero de Aguas Rionegrinas: 080099924827 / 2920402808 y su sitio web https://aguasrionegrinas.com/','necesitas algo mas?.🤓'
 ])
 
-const flowEdersa = addKeyword(['4','edersa', 'Edersa','EDERSA', 'edersa.','edersa servicio','necesito edersa','llamar a edersa','edersa telefono']).addAnswer([
+const flowEdersa = addKeyword(['4','edersa', 'Edersa','EDERSA', 'edersa.','edersa servicio','necesito edersa','llamar a edersa','edersa telefono',  'edersa',
+  'Edersa',
+  'EDERSA',
+  'edersa electricidad',
+  'Edersa Electricidad',
+  'EDERSA ELECTRICIDAD',
+  'ederssa',
+  'Ederssa',
+  'EDERSSA',
+  'edrersa',
+  'Edrersa',
+  'EDRERSA',
+  'eders',
+  'Eders',
+  'EDERS']).addAnswer([
   ' Claro aqui tienes el numero de Edersa: 08102229500 / 02994039150 y su sitio web https://www.edersa.com.ar/',
   'su horario de atención es de Lunes a viernes de 8:00 a 13:00 hs','necesitas algo mas?.🤓'
 ])
@@ -160,7 +207,19 @@ const flowtaxi =addKeyword(['taxi','taxi en general roca','taxi en roca','servic
   'Tagliapietra silvo: 2984644747','necesitas algo mas?.🤓'
 ])
 
-const flowServicios = addKeyword(['servicios', 'Servicios', 'SERVICIOS','servicios.']).addAnswer(
+const flowServicios = addKeyword(['servicios', 'Servicios', 'SERVICIOS','servicios.','servicios',
+  'servicio',
+  'Servicio',
+  'SERVICIO',
+  'serbicios',
+  'Serbicios',
+  'SERBICIOS',
+  'servisios',
+  'Servisios',
+  'SERVISIOS',
+  'serbicio',
+  'Serbicio',
+  'SERBICIO']).addAnswer(
   [
     '👇 Para acceder a la informacion dime el nombrame alguno de los siguente servicios:',
     '1. Municipalidad',
@@ -187,18 +246,43 @@ const flowServicios = addKeyword(['servicios', 'Servicios', 'SERVICIOS','servici
   ]
 )
 
-const flowbarrionuevo = addKeyword(['barrio nuevo','nuevo']).addAnswer([
-  ' Claro aqui tienes los horarios de BARRIO NUEVO','LUNES A VIERNES',
+const flowbarrionuevo = addKeyword(['barrio nuevo','nuevo','barrio nuevo',
+  'Barrio Nuevo',
+  'BARRIO NUEVO',
+  'barrionuevo',
+  'Barrionuevo',
+  'BARRIONUEVO',
+  'barrio nuveo',
+  'Barrio Nuveo',
+  'BARRIO NUveo',
+  'bario nuevo',
+  'Bario Nuevo',
+  'BARIO NUEVO']).addAnswer([
+  ' Claro aqui tienes los horarios de *BARRIO NUEVO*','*LUNES A VIERNES*',
 'Salidas desde Dársena 4:',' Primer servicio: 06:10 - Último servicio: 23:50','Frecuencia: cada 30 minutos',
 'Salidas desde Barrio Nuevo:', 'Primer servicio: 06:40 - Último servicio: 00:10','Frecuencia: cada 30 minutos',
-'SÁBADOS Y DOMINGO',
+'*SÁBADOS Y DOMINGO*',
 'Salidas desde Dársena 4:', 'primer servicio: 06:10 - ultimo servicio: 21:40' ,'frecuencia:cada 40 minutos ',
 'Desde Barrio Nuevo:' ,'primer servicio: 06:40 - ultimo servicio: 22:10 ','frecuencia: cada 40 minutos'
 ])
 
 
-const flowippv = addKeyword(['ippv','malvinas']).addAnswer([
-'Claro aqui tienes los horarios de IPPV','SABADO Y DOMINGO', 
+const flowippv = addKeyword(['ippv','malvinas', 'IPPV', 'MALVINAS','ippv malvinas',
+  'Ippv Malvinas',
+  'IPPV MALVINAS',
+  'ippv-malvinas',
+  'Ippv-Malvinas',
+  'IPPV-MALVINAS',
+  'ippvmalvinas',
+  'IppvMalvinas',
+  'IPPVMALVINAS',
+  'ipv malvinas',
+  'Ipv Malvinas',
+  'IPV MALVINAS',
+  'ippv malvina',
+  'Ippv Malvina',
+  'IPPV MALVINA']).addAnswer([
+'Claro aqui tienes los horarios de *IPPV*','*SABADO Y DOMINGO*', 
 'darsena  1(ida): Primer servicio: 06:10 - Ultimo servicio: 21:10 ','frecuencia aproximada: cada 60 minutos',
 'mendoza y palacio(ida): Primer servicio: 07:15 -  Ultimo servicio: 21:15','Frecuencia aproximada: cada 60 minutos',
 'rionegro y libertad (ida): Primer servicio: 07:17 -Primer servicio: 21:17','Frecuencia aproximada: cada 60 minutos',
@@ -210,7 +294,7 @@ const flowippv = addKeyword(['ippv','malvinas']).addAnswer([
 'venenzuela y jujuy(vuelta): Primer servicio: 06:43 - Último servicio: 21:43','Frecuencia aproximada: cada 60 minutos',
 'guatemala y mendoza (vuelta):Primer servicio: 06:50 - Último servicio: 21:50','Frecuencia aproximada: cada 60 minutos',
 'darsena 1 : Primer servicio: 07:00 - Último servicio: 22:00','Frecuencia aproximada: cada 60 minutos',
-'Horarios IPPV y MALVINAS LUNES A VIERNES',
+'*Horarios IPPV y MALVINAS LUNES A VIERNES*',
 'DÁRSENA 1 (IDA): Primer servicio: 06:10 - Último servicio: 23:00','Frecuencia aproximada: cada 30 minutos',
 'MENDOZA Y PALACIO (IDA): Primer servicio: 06:45 - Último servicio: 23:55','Frecuencia aproximada: cada 30 minutos',
 'RIO NEGRO Y LIBERTADOR (IDA): Primer servicio: 06:47 - Último servicio: 23:57','Frecuencia aproximada: cada 30 minutos',
@@ -224,8 +308,22 @@ const flowippv = addKeyword(['ippv','malvinas']).addAnswer([
 'DÁRSENA 1 (VUELTA): Primer servicio: 07:00 - Último servicio: 00:30','Frecuencia aproximada: cada 30 minutos'
 ])
 
-const flowpuentecero = addKeyword(['puente cero']).addAnswer([
-  'Claro aqui tienes los horarios de PUENTE CERO','LUNES A VIERNES ',
+const flowpuentecero = addKeyword(['puente cero','puente cero',
+  'Puente Cero',
+  'PUENTE CERO',
+  'puentecero',
+  'Puentecero',
+  'PUENTECERO',
+  'puente sero',
+  'Puente Sero',
+  'PUENTE SERO',
+  'puente serro',
+  'Puente Serro',
+  'PUENTE SERRO',
+  'puente ceroo',
+  'Puente Ceroo',
+  'PUENTE CEROO']).addAnswer([
+  'Claro aqui tienes los horarios de *Puente cero*','*LUNES A VIERNES*',
 'DÁRSENA 3 (IDA): Primer servicio: 06:35 - Último servicio: 21:10','Frecuencia aproximada: cada 60 a 90 minutos',
 'MENDOZA Y SAN MARTÍN (IDA): Primer servicio: 06:35 - Último servicio: 21:10','Frecuencia aproximada: cada 60 a 90 minutos',
 'JUJUY Y LA PLATA (IDA): Primer servicio: 06:48 - Último servicio: 21:18','Frecuencia aproximada: cada 60 a 90 minutos',
@@ -238,7 +336,7 @@ const flowpuentecero = addKeyword(['puente cero']).addAnswer([
 'VENEZUELA Y JUJUY (VUELTA): Primer servicio: 06:47 - Último servicio: 21:47','Frecuencia aproximada: cada 60 a 90 minutos',
 'GUATEMALA Y MENDOZA (VUELTA): Primer servicio: 06:52 - Último servicio: 21:52','Frecuencia aproximada: cada 60 a 90 minutos',
 'DÁRSENA 1 (VUELTA): Primer servicio: 06:52 - Último servicio: 21:52','Frecuencia aproximada: cada 60 a 90 minutos',
-  '-HORARIOS PUENTE CERO SABADOS ',
+  '*HORARIOS PUENTE CERO SABADOS* ',
 'DÁRSENA 3 (IDA): Primer servicio: 06:10 - Último servicio: 21:10','Frecuencia aproximada: cada 2 hora',
 'MENDOZA Y SAN MARTÍN (IDA): Primer servicio: 06:14 - Último servicio: 21:14','Frecuencia aproximada: cada 2 horas',
 'JUJUY Y LA PLATA (IDA): Primer servicio: 06:18 - Último servicio: 21:18','Frecuencia aproximada: cada 2 horas',
@@ -253,8 +351,9 @@ const flowpuentecero = addKeyword(['puente cero']).addAnswer([
 'DÁRSENA 1 (VUELTA): Primer servicio: 07:05 - ultimo servicio: 22:05','frecuencia aproximada: cada 2 horas'
 ])
 
-const flowchacramonte = addKeyword(['chacramonte']).addAnswer([
- 'Claro aqui tienes los horarios de Chacramonte','( LUNES A VIERNES )',
+const flowchacramonte = addKeyword(['chacramonte','chacramonte','Chacramonte',  'CHACRAMONTE',  'chacra monte',  'Chacra Monte',
+  'CHACRA MONTE',  'chacramon',  'Chacramon',  'CHACRAMON',  'chacramomte',  'Chacramomte', 'CHACRAMOMTE', 'chacramontte',  'Chacramontte','CHACRAMONTT']).addAnswer([
+ 'Claro aqui tienes los horarios de *Chacramonte*','*LUNES A VIERNES*',
  'DÁRSENA N°1 (ida): Primer servicio: 06:20 - Último servicio: 23:50','Frecuencia aproximada: cada 1 hora',
  'CHACRAMONTE (vuelta): Primer servicio: 06:40 - Último servicio: 00:30','Frecuencia aproximada: cada 1 hora',
  'DESDE LA MARTINA: Primer servicio: 06:40 - Último servicio: 21:40','Frecuencia aproximada: cada 1 hora',
@@ -264,28 +363,34 @@ const flowchacramonte = addKeyword(['chacramonte']).addAnswer([
  'PASO CÓRDOBA: Primer servicio: 23:10 - Último servicio: 00:40','Frecuencia aproximada: cada 1 hora 30 minutos'
 ])
 
-const flowmosconi = addKeyword(['mosconi']).addAnswer([
-  'Claro aqui tienes los horarios de Mosconi','lunes a viernes',
+const flowmosconi = addKeyword(['mosconi','mosconi',
+  'Mosconi','MOSCONI','mosconni','Mosconni','MOSCONNI', 'moscconi', 'Moscconi', 'MOSCCONI', 'moskoni', 'Moskoni', 'MOSKONI', 'moscon','Moscon','MOSCON']).addAnswer([
+  'Claro aqui tienes los horarios de *Mosconi*','*LUNES A VIERNES*',
  '-MOSCONI LA RIVERA SALIDAS DESDE DÁRSENA 4:', ' Primer servicio: 06:10 - Último servicio: 23:50','Frecuencia aproximada: cada 1 hora',
  'SALIDAS DESDE MOSCONI:', 'Primer servicio: 06:30 - Último servicio: 21:30','Frecuencia aproximada: cada 1 hora'
 ])
 
-const flowstefenelli = addKeyword(['stefenelli']).addAnswer([
- 'Claro aqui tienes los horarios de Stefenelli',
+const flowstefenelli = addKeyword(['stefenelli', 'stefenelli','Stefenelli','STEFENELLI','estefenelli','Estefenelli','ESTEFENELLI','stefeneli','Stefeneli','STEFENELI','estefeneli',
+  'Estefeneli','ESTEFENELI','stefenelly','Stefenelly','STEFENELLY']).addAnswer([
+ 'Claro aqui tienes los horarios de *Stefenelli*','*LUNES A SABADO*',
  'DÁRSENA 2:', 'Primer servicio: 06:10 - Último servicio: 21:10','Frecuencia aproximada: cada 60 minutos',
  'DESDE 70 VIVIENDAS:', 'Primer servicio: 06:20 - Último servicio: 21:20','Frecuencia aproximada: cada 60 minutos',
  'DESDE PLAZA VILLEGAS:', 'Primer servicio: 06:30 - Último servicio: 21:30','Frecuencia aproximada: cada 60 minutos'
 ])
 
-const flowaeroclub = addKeyword(['aeroclub']).addAnswer([
-  'Claro aqui tienes los horarios de Aeroclub',
+const flowaeroclub = addKeyword(['aeroclub', 'aero club','Aero Club','AERO CLUB','aeroclub','Aeroclub', 'AEROCLUB','aero clup', 'Aero Clup','AERO CLUP', 'aero clob', 'Aero Clob','AERO CLOB']).addAnswer([
+  'Claro aqui tienes los horarios de *Aeroclub*',
+  '*LUNES A SABADO*',
   'desde darsena 1: Primer servicio: 06:10 - Último servicio: 23:50','Frecuencia aproximada: cada 1 hora','📝 Últimos tres servicios (21:40, 22:40, 23:50) son combinados con Barrio ',
   'quinta 25: Primer servicio: 06:16 - Último servicio: 21:16','Frecuencia aproximada: cada 1 hora',
   'desde aeroclub (vuelta): Primer servicio: 06:35 - Último servicio: 00:20','Frecuencia aproximada: cada 1 hora'
 ])
 
-const flowpasocordoba = addKeyword(['paso cordoba']).addAnswer([
-  'Claro aqui tienes los horarios de Paso Cordoba','LUNES A VIERNES','salida desde darsena 2 (ida): Primer servicio: 07:05 - Último servicio: 23:50','Frecuencia aproximada: cada 1 hora 30 minutos',
+const flowpasocordoba = addKeyword(['paso cordoba','paso cordoba','Paso Cordoba','PASO CORDOBA', 'paso Córdoba','Paso Córdoba','PASO Córdoba',
+  'paso cordova','Paso cordova','PASO cordova','paso CORDOBA','paso CORDOVA','PASO CORDOVA','paso corboda', 'Paso corboda','PASO corboda', 'paso corbova','Paso corbova','PASO corbova',
+  'paso coroba',  'Paso coroba','PASO coroba','paso cordovaa','Paso cordovaa','PASO cordovaa']).addAnswer([
+  'Claro aqui tienes los horarios de *Paso Cordoba*',
+  '*LUNES A VIERNES*','salida desde darsena 2 (ida): Primer servicio: 07:05 - Último servicio: 23:50','Frecuencia aproximada: cada 1 hora 30 minutos',
   'paso cordoba: (vuelta) Primer servicio: 06:15 - Último servicio: 21:50','Frecuencia aproximada: cada 1 hora 30 minutos',
   'buenos aires chico: Primer servicio: 06:08 - Último servicio: 19:40','Frecuencia aproximada: cada 4 horas',
   '4 galpones: Primer servicio: 06:05 - Último servicio: 19:50','Frecuencia aproximada: cada 4 horas',
@@ -294,10 +399,10 @@ const flowpasocordoba = addKeyword(['paso cordoba']).addAnswer([
 
 const flowgomenesalt= addKeyword(['gomes','altabarda', 'gomez','Gomez','GÓMEZ','altabarda','Altabarda','ALTABARDA','gomez altabarda','altabarda gomez','gómez altabarda','goméz','gomes','gómes','gomez?','altabarda?','colectivo altabarda',
 'colectivo gomez','linea altabarda','linea gomez','bondi gomez','bondi altabarda','horarios gomez','horarios altabarda','gomez roca','altabarda roca','gomez general roca','altabarda general roca']).addAnswer([
- 'Claro aqui tienes los horarios de Gomes y Alta Barda',
- 'LUNES A VIERNES', 'sale darsena 3: primer servicio: 06:10 - ultimo servicio: 23:50','frecuencia: cada 30 minutos',
+ 'Claro aqui tienes los horarios de *Gomes y Alta Barda*',
+ '*LUNES A VIERNES*', 'sale darsena 3: primer servicio: 06:10 - ultimo servicio: 23:50','frecuencia: cada 30 minutos',
  'desde villegas y felix heredia :primer servicio: 06:40 - ultimo servicio: 00:10','frecuencia: cada 30 minutos',
- 'SÁBADOS y DOMINGOS', 'sale darsena 3:','primer servicio: 06:10 - ultimo servicio: 21:40','frecuencia: cada 30 minutos',
+ '*SÁBADOS y DOMINGOS*', 'sale darsena 3:','primer servicio: 06:10 - ultimo servicio: 21:40','frecuencia: cada 30 minutos',
  'desde villegas y felix heredia :primer servicio: 06:40 - ultimo servicio: 00:10','frecuencia: cada 30 minutos',
  ,'primer servicio: 06:40 - ultimo servicio: 22:00','frecuencia : cada 30/40 minutos'
 ])
@@ -307,7 +412,7 @@ const flowHorarios = addKeyword(['horarios colectivo', 'Horarios colectivo', 'ho
   'colectivos','bondi','bondis','cuando pasa el colectivo','a que hora pasa el colectivo','necesito el bondi','ver horarios colectivo','colectivo?',
   'bondi?','horarios de bondi','colectivo general roca','horarios transporte','ver colectivo']).addAnswer(
   [
-    'Claro, para saber los horarios del colectivo tienes que decirme el nombre de tu colectivo 😊'
+    'Claro, para saber los horarios del colectivo tienes que decirme el nombre de tu colectivo o barrio 😊'
   ],
   null,
   null,

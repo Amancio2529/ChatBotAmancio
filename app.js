@@ -25,9 +25,7 @@ const flowhospital = addKeyword(['hospital', 'hospital','Hospital','HOSPITAL','h
 const flowfarma = addKeyword(['farmacia','farmacias','Farmacia','Farmacias','FARMACIA','FARMACIAS','farmacia ahora','farmacia urgente','necesito una farmacia',
  'farmacia cerca','farmacia general roca','farmacias en roca','dame una farmacia','buscar farmacia','farmacia?']).addAnswer([
 'Claro aquí tienes las distintas farmacias para acceder a la ubicación da click en el enlace ',
-
-.addAnswer(
-    ['*Farmacia San Martín*',
+'*Farmacia San Martín*',
 '*Farmacia San Martín 1','su Telefono: 2984663634','https://maps.app.goo.gl/bmseaJoRZyejUg4Y7',
 '*Farmacia San Martín 2','su Telefono: 2984604848','https://maps.app.goo.gl/2HzrMmPSwtmQGtsR6',
 '*Farmacia San Martín 3','su Telefono: 2984663638','https://maps.app.goo.gl/ezUBzGk6rhf4QHFo7',
@@ -36,21 +34,18 @@ const flowfarma = addKeyword(['farmacia','farmacias','Farmacia','Farmacias','FAR
 '*Farmacia San Martín 6','su Telefono: 2984535875','https://maps.app.goo.gl/B49AWqQbUbKfjq9Y8',
 '*Farmacia San Martín 7','su Telefono: 2984226071','https://maps.app.goo.gl/msvVpmUCTjkPUqyV8',
 '*Farmacia San Martín 8','su Telefono: 2984131224','https://maps.app.goo.gl/xEsLFo8sv3WKMmqZA',
-'*Farmacia San Martín 9','su Telefono: 2984160067','https://maps.app.goo.gl/3sn8W3HzykRbH4rv6'])
-.addAnswer(
-    ['*Farmacia Bancaria*',
+'*Farmacia San Martín 9','su Telefono: 2984160067','https://maps.app.goo.gl/3sn8W3HzykRbH4rv6',
+'*Farmacia Bancaria*',
 '*Farmacia Bancaria 1','su Telefono: 2984422886','https://maps.app.goo.gl/t19oWjVvyaoJxrqv8',
 '*Farmacia Bancaria 2','su Telefono: 2984427795','https://maps.app.goo.gl/ojXFEsa4uskV8rW19',
 '*Farmacia Bancaria 3','su Telefono: 2984422464','https://maps.app.goo.gl/awMx2ze8KbbVELTq6',
 '*Farmacia Bancaria 4','su Telefono: 2984423686','https://maps.app.goo.gl/4HW1aqrrKWDDxC54A',
-'*Farmacia Bancaria Güemes','su Telefono: 2984819595','https://maps.app.goo.gl/sHrjbwwFSLJLNKe98'])
-.addAnswer(
-    ['*Farmacia Estuardo Romero*',
+'*Farmacia Bancaria Güemes','su Telefono: 2984819595','https://maps.app.goo.gl/sHrjbwwFSLJLNKe98',
+'*Farmacia Estuardo Romero*',
 '*Farmacia Estuardo Romero I','su Telefono: 2984425200','https://maps.app.goo.gl/365cfHtQxcJ1BZno9',
 '*Farmacia Estuardo Romero II','su Telefono: 2984385695','https://maps.app.goo.gl/RzJtm6G5jQVhKpDn6',
-'*Farmacia Estuardo Romero III','su Telefono: 2984735380','https://maps.app.goo.gl/htHTKRpjWVYaEYVQ7'])
-.addAnswer(
-    ['*Resto de Farmacias*'
+'*Farmacia Estuardo Romero III','su Telefono: 2984735380','https://maps.app.goo.gl/htHTKRpjWVYaEYVQ7',
+'*Resto de Farmacias*'
 '*Farmacia Mendoza','su Telefono: 2984425301','https://maps.app.goo.gl/eW5pzq1EMo56mhC8A',
 '*Farmacia Carmelino','su Telefono: 2984436903','https://maps.app.goo.gl/Rw5iNqSfkurZQMqJ6',
 '*Farmacia B° San Cayetano','su Telefono: 2984436566','https://maps.app.goo.gl/6opcKMEM7sG9HbDR9',
@@ -79,9 +74,7 @@ const flowfarma = addKeyword(['farmacia','farmacias','Farmacia','Farmacias','FAR
 '*Drogueria Alto valle','su Telefono: No tiene','https://maps.app.goo.gl/UAbZ6ZZgknjmiDFB8',
 '*Farmacia Y Perfumeria Santa Teresita','su Telefono: 2984423090','https://maps.app.goo.gl/YDYmuv4v6UobHMBM8',
 '*La Botica Scs','su Telefono: 02996596464','https://maps.app.goo.gl/UMY1pCD1Y6vVC7fV6',
-'*Paniceres - La Farmacia','su Telefono: 2984428635','https://maps.app.goo.gl/es95X1P7N5rx21nHA',]
-)
-
+'*Paniceres - La Farmacia','su Telefono: 2984428635','https://maps.app.goo.gl/es95X1P7N5rx21nHA',
 ])
 
 const flowclinica = addKeyword('clinica','Clinica,'hospitales','Hospitales', 'ubicaciones de clinicas y hospitales?', 'ubicacion de clinicas y hospitales?', 
@@ -101,6 +94,7 @@ const flowclinica = addKeyword('clinica','Clinica,'hospitales','Hospitales', 'ub
   'sanatorio juan 23',
   'clinica roca',
   'hospital fracisco lopez lima',
+  'dime cual es la que necesitas?😉'
 ]
 [
   flowhospital,

@@ -15,8 +15,8 @@ const flowroca = addKeyword(['clinica roca','Clínica Roca','CLINICA ROCA','clin
   'Si , como no , aqui te dejo la ubicacion, solo ingresa al link: https://g.co/kgs/xU2ygW2',' ademas aqui te dejo sus contactoss +54 298 443-1821 y Gmail consulta@clinicaroca.com.ar'
 ])
 
-const flowhospital = addKeyword(['hospital', 'hospital','Hospital','HOSPITAL','hospital general roca','hospital roca','hospital francisco lopez lima','hospital lópez lima',
-  'hospital lopez lima','francisco lopez lima','lópez lima','lopez lima','el hospital','hospital?','hospital.','hospital roca telefono','telefono del hospital','hospital direccion',
+const flowhospital = addKeyword(['hospital general roca','hospital roca','hospital francisco lopez lima','hospital lópez lima',
+  'hospital lopez lima','francisco lopez lima','lópez lima','lopez lima','el hospital','hospital roca telefono','telefono del hospital','hospital direccion',
   'como llegar al hospital','hospital en roca','urgencias hospital','hospital 24hs','emergencia hospital']).addAnswer([
   'Si, como no, aquí te dejo la ubicación, sólo ingresá al link:  https://g.co/kgs/RJBmWg6 ','su Atención es de 24 hs (emergencias y guardia)'
   ,'necesitas algo mas?.🤓'

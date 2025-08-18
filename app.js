@@ -34,8 +34,8 @@ const flowfarma = addKeyword(['farmacia','farmacias','Farmacia','Farmacias','FAR
 '*Farmacia San Martín 6','su Telefono: 2984535875','https://maps.app.goo.gl/B49AWqQbUbKfjq9Y8',
 '*Farmacia San Martín 7','su Telefono: 2984226071','https://maps.app.goo.gl/msvVpmUCTjkPUqyV8',
 '*Farmacia San Martín 8','su Telefono: 2984131224','https://maps.app.goo.gl/xEsLFo8sv3WKMmqZA',
-'*Farmacia San Martín 9','su Telefono: 2984160067','https://maps.app.goo.gl/3sn8W3HzykRbH4rv6',
-'*Farmacia Bancaria*',
+'*Farmacia San Martín 9','su Telefono: 2984160067','https://maps.app.goo.gl/3sn8W3HzykRbH4rv6'])
+.addAnswer(['*Farmacia Bancaria*',
 '*Farmacia Bancaria 1','su Telefono: 2984422886','https://maps.app.goo.gl/t19oWjVvyaoJxrqv8',
 '*Farmacia Bancaria 2','su Telefono: 2984427795','https://maps.app.goo.gl/ojXFEsa4uskV8rW19',
 '*Farmacia Bancaria 3','su Telefono: 2984422464','https://maps.app.goo.gl/awMx2ze8KbbVELTq6',
@@ -44,8 +44,8 @@ const flowfarma = addKeyword(['farmacia','farmacias','Farmacia','Farmacias','FAR
 '*Farmacia Estuardo Romero*',
 '*Farmacia Estuardo Romero I','su Telefono: 2984425200','https://maps.app.goo.gl/365cfHtQxcJ1BZno9',
 '*Farmacia Estuardo Romero II','su Telefono: 2984385695','https://maps.app.goo.gl/RzJtm6G5jQVhKpDn6',
-'*Farmacia Estuardo Romero III','su Telefono: 2984735380','https://maps.app.goo.gl/htHTKRpjWVYaEYVQ7',
-'*Resto de Farmacias*',
+'*Farmacia Estuardo Romero III','su Telefono: 2984735380','https://maps.app.goo.gl/htHTKRpjWVYaEYVQ7'])
+.addAnswer(['*Resto de Farmacias*',
 '*Farmacia Mendoza','su Telefono: 2984425301','https://maps.app.goo.gl/eW5pzq1EMo56mhC8A',
 '*Farmacia Carmelino','su Telefono: 2984436903','https://maps.app.goo.gl/Rw5iNqSfkurZQMqJ6',
 '*Farmacia B° San Cayetano','su Telefono: 2984436566','https://maps.app.goo.gl/6opcKMEM7sG9HbDR9',
@@ -77,7 +77,7 @@ const flowfarma = addKeyword(['farmacia','farmacias','Farmacia','Farmacias','FAR
 '*Paniceres - La Farmacia','su Telefono: 2984428635','https://maps.app.goo.gl/es95X1P7N5rx21nHA',
 ])
 
-const flowclinica = addKeyword('clinica','Clinica','hospitales','Hospitales', 'ubicaciones de clinicas y hospitales?', 'ubicacion de clinicas y hospitales?', 
+const flowclinica = addKeyword('ubicaciones de clinicas y hospitales?', 'ubicacion de clinicas y hospitales?', 
   'ubicacion clinicas y hospitales?', 'ubicaciones clinicas y hospitales?', 
   'ubicacion de CLINICAS y HOSPITALES?', 'UBICACIONES DE CLINICAS Y HOSPITALES?', 
   'ubicacion clinicas hospitales?', 'ubicaciones clinicas hospitales?', 
@@ -87,7 +87,7 @@ const flowclinica = addKeyword('clinica','Clinica','hospitales','Hospitales', 'u
   'numero de CLINICAS y HOSPITALES?', 'NUMERO DE CLINICAS Y HOSPITALES?', 
   'NUMEROS DE CLINICAS Y HOSPITALES?', 'numero clinicas hospitales?', 
   'numeros clinicas hospitales?', 'num clinicas hospitales?', 
-  'num de clinicas y hospitales?'
+  'num de clinicas y hospitales?','ubicaciones de clinicas y hospitales','ubicaciones de clinicas','ubicaciones de hospitales'
   ).addAnswer([
   'Por ahora solo constamos con las siguientes clinicas y hospitales:',
   '(urgencias y guardia)',
@@ -103,9 +103,10 @@ const flowclinica = addKeyword('clinica','Clinica','hospitales','Hospitales', 'u
 ])
 
 const flowUbi = addKeyword(['ubicaciones', 'ubicasiones', 'ubicacioness', 'ubicaciónes', 'ubicacionez', 'ubicaci ones', 'ubikaciones', 'ubicacione', 'ubicacioens', 'ubicaciones']).addAnswer(
-  ['hasta ahora solo cuento con las siguientes ubicaciones:',
-    'Farmacias',
-    'Clinica y Hospitales'
+  ['hasta ahora solo cuento con las siguientes :',
+    '👉Farmacias',
+    '👉ubicaciones clinica y Hospitales',
+   'para acceder a ellos envia como esta escrito 😉'
   ],
   null,
   null, 

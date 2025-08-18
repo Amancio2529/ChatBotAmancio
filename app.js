@@ -77,7 +77,7 @@ const flowfarma = addKeyword(['farmacia','farmacias','Farmacia','Farmacias','FAR
 '*Paniceres - La Farmacia','su Telefono: 2984428635','https://maps.app.goo.gl/es95X1P7N5rx21nHA',
 ])
 
-const flowclinica = addKeyword('ubicaciones de clinicas y hospitales?', 'ubicacion de clinicas y hospitales?', 
+const flowclinica = addKeyword(['ubicaciones de clinicas y hospitales?', 'ubicacion de clinicas y hospitales?', 
   'ubicacion clinicas y hospitales?', 'ubicaciones clinicas y hospitales?', 
   'ubicacion de CLINICAS y HOSPITALES?', 'UBICACIONES DE CLINICAS Y HOSPITALES?', 
   'ubicacion clinicas hospitales?', 'ubicaciones clinicas hospitales?', 
@@ -88,7 +88,7 @@ const flowclinica = addKeyword('ubicaciones de clinicas y hospitales?', 'ubicaci
   'NUMEROS DE CLINICAS Y HOSPITALES?', 'numero clinicas hospitales?', 
   'numeros clinicas hospitales?', 'num clinicas hospitales?', 
   'num de clinicas y hospitales?','ubicaciones de clinicas y hospitales','ubicaciones de clinicas','ubicaciones de hospitales'
-  ).addAnswer([
+  ]).addAnswer([
   'Por ahora solo constamos con las siguientes clinicas y hospitales:',
   '(urgencias y guardia)',
   'sanatorio juan 23',

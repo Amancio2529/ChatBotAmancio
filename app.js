@@ -40,8 +40,8 @@ const flowfarma = addKeyword(['farmacia','farmacias','Farmacia','Farmacias','FAR
 '*Farmacia Bancaria 2','su Telefono: 2984427795','https://maps.app.goo.gl/ojXFEsa4uskV8rW19',
 '*Farmacia Bancaria 3','su Telefono: 2984422464','https://maps.app.goo.gl/awMx2ze8KbbVELTq6',
 '*Farmacia Bancaria 4','su Telefono: 2984423686','https://maps.app.goo.gl/4HW1aqrrKWDDxC54A',
-'*Farmacia Bancaria Güemes','su Telefono: 2984819595','https://maps.app.goo.gl/sHrjbwwFSLJLNKe98',
-'*Farmacia Estuardo Romero*',
+'*Farmacia Bancaria Güemes','su Telefono: 2984819595','https://maps.app.goo.gl/sHrjbwwFSLJLNKe98'])
+.addAnswer(['*Farmacia Estuardo Romero*',
 '*Farmacia Estuardo Romero I','su Telefono: 2984425200','https://maps.app.goo.gl/365cfHtQxcJ1BZno9',
 '*Farmacia Estuardo Romero II','su Telefono: 2984385695','https://maps.app.goo.gl/RzJtm6G5jQVhKpDn6',
 '*Farmacia Estuardo Romero III','su Telefono: 2984735380','https://maps.app.goo.gl/htHTKRpjWVYaEYVQ7'])
@@ -94,8 +94,9 @@ const flowclinica = addKeyword(['ubicaciones de clinicas y hospitales?', 'ubicac
   'sanatorio juan 23',
   'clinica roca',
   'hospital fracisco lopez lima',
-  'dime cual es la que necesitas?😉'
-]
+  'dime cual es la que necesitas?😉'],
+               null,
+               null,
 [
   flowhospital,
   flowjuan,

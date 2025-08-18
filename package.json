@@ -3,11 +3,12 @@
     "version": "1.0.0",
     "description": "",
     "main": "app.js",
-    "scripts": {
+ "scripts": {
         "prestart": "chmod +x ./node_modules/.bin/eslint && npx eslint . --no-ignore",
         "pre-copy": "cd .. && npm run  copy.lib base-baileys-memory",
         "start": "node app.js"
-    },
+    }
+,
     "keywords": [],
     "dependencies": {
         "@bot-whatsapp/bot": "latest",

@@ -456,9 +456,9 @@ const main = async () => {
     flowpasocordoba,
     flowgomenesalt,
     flowtaxi,
-    flowjuan,
     municipio,
-    flowclinica
+    flowclinica,
+    flowfarma
   ])
   const adapterProvider = createProvider(BaileysProvider)
 

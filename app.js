@@ -77,7 +77,7 @@ const flowfarma = addKeyword(['farmacia','farmacias','Farmacia','Farmacias','FAR
 '*Paniceres - La Farmacia','su Telefono: 2984428635','https://maps.app.goo.gl/es95X1P7N5rx21nHA',
 ])
 
-const flowclinica = addKeyword('clinica','Clinica,'hospitales','Hospitales', 'ubicaciones de clinicas y hospitales?', 'ubicacion de clinicas y hospitales?', 
+const flowclinica = addKeyword('clinica','Clinica','hospitales','Hospitales', 'ubicaciones de clinicas y hospitales?', 'ubicacion de clinicas y hospitales?', 
   'ubicacion clinicas y hospitales?', 'ubicaciones clinicas y hospitales?', 
   'ubicacion de CLINICAS y HOSPITALES?', 'UBICACIONES DE CLINICAS Y HOSPITALES?', 
   'ubicacion clinicas hospitales?', 'ubicaciones clinicas hospitales?', 

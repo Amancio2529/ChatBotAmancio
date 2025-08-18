@@ -112,10 +112,7 @@ const flowUbi = addKeyword(['ubicaciones', 'ubicasiones', 'ubicacioness', 'ubica
   null, 
   [
     flowclinica,
-    flowfarma,
-    flowhospital,
-    flowjuan,
-    flowroca
+    flowfarma
   ]
 )
 

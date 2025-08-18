@@ -45,7 +45,7 @@ const flowfarma = addKeyword(['farmacia','farmacias','Farmacia','Farmacias','FAR
 '*Farmacia Estuardo Romero I','su Telefono: 2984425200','https://maps.app.goo.gl/365cfHtQxcJ1BZno9',
 '*Farmacia Estuardo Romero II','su Telefono: 2984385695','https://maps.app.goo.gl/RzJtm6G5jQVhKpDn6',
 '*Farmacia Estuardo Romero III','su Telefono: 2984735380','https://maps.app.goo.gl/htHTKRpjWVYaEYVQ7',
-'*Resto de Farmacias*'
+'*Resto de Farmacias*',
 '*Farmacia Mendoza','su Telefono: 2984425301','https://maps.app.goo.gl/eW5pzq1EMo56mhC8A',
 '*Farmacia Carmelino','su Telefono: 2984436903','https://maps.app.goo.gl/Rw5iNqSfkurZQMqJ6',
 '*Farmacia B° San Cayetano','su Telefono: 2984436566','https://maps.app.goo.gl/6opcKMEM7sG9HbDR9',
